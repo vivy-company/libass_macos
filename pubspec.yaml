@@ -1,0 +1,14 @@
+name: libass_macos
+description: MacOS binaries for libass to use with libass_bindings library.
+version: 1.0.0
+repository: https://github.com/vivy-company/libass_macos
+
+environment:
+  sdk: '>=2.18.4 <3.0.0'
+
+# dependencies:
+#   path: ^1.8.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.16.0
